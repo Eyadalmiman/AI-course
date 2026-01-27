@@ -1,0 +1,8 @@
+{
+    "experiment_name": "student_score_model",
+    "model_name": "SimpleScorePredictor",
+    "epochs": 5,
+    "accuracy": 0.9,
+    "loss": 0.4,
+    "finished": true
+}

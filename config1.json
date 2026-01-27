@@ -1,0 +1,6 @@
+{
+    "Name": "AI Assistant",
+    "Version": 1.0,
+    "Features": ["chat", "translate", "summarize"],
+    "Active": true
+}

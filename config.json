@@ -1,6 +1,9 @@
 {
-    "Name": "AI Assistant",
-    "Version": 1.0,
-    "Features": ["chat", "translate", "summarize"],
-    "Active": true
+  "experiment_name": "student_score_model",
+  "model_name": "SimpleScorePredictor",
+  "epochs": 5,
+  "learning_rate": 0.01,
+  "dataset_size": 150,
+  "input_feature": "score",
+  "output_feature": "passed"
 }
