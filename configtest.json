@@ -1,0 +1,14 @@
+{
+    "architecture": "resnet18",
+    "input_dim": 224,
+    "num_classes": 10,
+    "omptimizer": {
+        "type": "adam",
+        "lr": 0.001,
+        "weight_decay": 0.0001
+    },
+    "training": {
+        "batch_size": 64,
+        "epochs": 20
+    }
+}
