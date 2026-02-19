@@ -1,0 +1,5 @@
+feature1,outcome,segment,priority
+1.0,2.0,A,low
+2.0,3.5,B,medium
+3.0,4.0,A,high
+4.0,5.0,B,low
