@@ -31,7 +31,7 @@ test_sample = np.array([[value1, value2, value3, value4]])
 flower_names = {0: "Yasmen", 1: "NightFlower", 2: "SunFlower"}
 
 # نقرأ ملف البيانات ونحوله إلى جدول (DataFrame)
-data = pd.read_csv('flowers_data.csv')
+data = pd.read_csv('Semester_2/Data/flowers_data.csv')
 
 # X = المزايا 4 اعمده نبغا النموذج يتعلم منها
 X = data[['Flower_Tall', 'Flower_Size', 'Flower_Color', 'Flower_Levs']].values
